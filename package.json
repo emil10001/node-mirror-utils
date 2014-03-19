@@ -10,13 +10,13 @@
     "main": "index",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/emil10001/node-mirror-utils"
     },
     "dependencies": {
         "googleapis": "0.4.2"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/emil10001/node-mirror-utils/issues"
     },
     "engines": {"node": "0.10.21"}
 }
