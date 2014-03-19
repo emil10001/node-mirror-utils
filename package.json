@@ -1,0 +1,22 @@
+{
+    "name": "mirror-utils",
+    "author": "ejohn@feigdev.com",
+    "version": "0.0.1",
+    "private": false,
+    "description": "stuff",
+    "keywords": ["glass", "mirror api"],
+    "bugs": "ejohn@feigdev.com",
+    "contributors": "ejohn@feigdev.com",
+    "main": "index",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "googleapis": "0.4.2"
+    },
+    "bugs": {
+        "url": ""
+    },
+    "engines": {"node": "0.10.21"}
+}
