@@ -3,7 +3,7 @@
     "author": "ejohn@feigdev.com",
     "version": "0.0.1",
     "private": false,
-    "description": "stuff",
+    "description": "This is a helper utility library for the Google Glass Mirror API.",
     "keywords": ["glass", "mirror api"],
     "bugs": "ejohn@feigdev.com",
     "contributors": "ejohn@feigdev.com",
