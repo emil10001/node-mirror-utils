@@ -3,6 +3,12 @@ NodeJS Mirror API Utils
 
 This is a helper utility library for the Google Glass Mirror API. Here is how to use it with express:
 
+    var mirror = require('mirror-utils');
+    var authUtils = new mirror.Auth();
+    var cardUtils = new mirror.Card();
+    var contactUtils = new mirror.Contacts();
+    var menuUtils = new mirror.Menu();
+
     app.get('/install', authUtils.install);
     app.get('/oauth2callback', function(req, res){
         // if we're able to grab the token, redirect the user back to the main page
