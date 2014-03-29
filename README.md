@@ -1,6 +1,12 @@
 NodeJS Mirror API Utils
 ==========================
 
+## WARNING
+
+This library does not provide a stable API. It is in development and is very subject to change.
+
+## About
+
 This is a helper utility library for the Google Glass Mirror API. Here is how to use it with express:
 
     var mirror = require('mirror-utils');
