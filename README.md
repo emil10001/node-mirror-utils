@@ -23,7 +23,7 @@ application.
 
 ## Usage
 
-Check out the quick start for a full, working example of how to get started. 
+Check out the [quick start](https://github.com/emil10001/mirror-quickstart-nodejs) for a full, working example of how to get started. 
 
 More documentation to come.
 
