@@ -1,7 +1,7 @@
 {
     "name": "mirror-utils",
     "author": "ejohn@feigdev.com",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "private": false,
     "description": "This is a helper utility library for the Google Glass Mirror API.",
     "keywords": ["glass", "mirror api"],
