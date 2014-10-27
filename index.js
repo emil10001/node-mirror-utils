@@ -6,7 +6,9 @@ var Attachments = require('./lib/attachment_builder.js')
     , Card = require('./lib/card_builder.js')
     , Contacts = require('./lib/contacts_builder.js')
     , Menu = require('./lib/menu_builder.js')
-    , Subscription = require('./lib/subscription_builder.js');
+    , Subscription = require('./lib/subscription_builder.js')
+    , googleapis = require('googleapis')
+    , client = googleapis.mirror('v1');
 
 exports.Attachments = Attachments;
 exports.Auth = Auth;
@@ -14,3 +16,4 @@ exports.Card = Card;
 exports.Contacts = Contacts;
 exports.Menu = Menu;
 exports.Subscription = Subscription;
+exports.MirrorClient = client;
